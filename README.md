@@ -31,7 +31,7 @@ To run Webhook server under ubuntu
 1. sudo apt install git python3-venv build-essential
 2. python3 -m venv IRS
 3. source IRS/bin/activate
-4. git clone https://github.com/XiaoyanYang2008/IRS-MRS-F2M2HRSystem.git
+4. git clone https://github.com/tealeeseng/IRS-MRS-F2M2HRSystem.git
 5. cd IRS-MRS-F2M2HRSystem
 6. pip3 install -r webapp/requirements.txt
 7. cd webapp/
