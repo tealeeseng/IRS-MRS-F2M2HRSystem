@@ -23,7 +23,7 @@ And how to perform mass staff(s) hiring? How should the manager, organize and pl
 # SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 # Demo
 
-Slide: https://docs.google.com/presentation/d/1EpLc254bpc49y9Jt0R0Rv2q_ikhi9mxTfuNGEBLD9bU/edit?usp=sharing 
+Slide: https://docs.google.com/presentation/d/1PkxEJqiGOnq2oEJySWtbckUEV1vBVFxq5YF5c_z1d3w/edit?usp=sharing
 
 ## Developer Guide
 
@@ -47,7 +47,7 @@ To run Webhook server under ubuntu
 
 
 
-To run optaPlanner under ubuntu,
+To run planning engine under Ubuntu,
 1. sudo apt install maven openjdk-11-jdk-headless
 2. cd optaplanner/
 3. mvn dependency:copy-dependencies
